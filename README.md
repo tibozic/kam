@@ -1,16 +1,14 @@
-# kam
+Admin račun: <br>
+email: admin@kam.com <br>
+geslo: admin123 <br>
 
-A new Flutter project.
+Uporabniški računi: <br>
+V vsak račun se prijavimo z email: ime@kam.com in geslom: ime123 <br>
+Nekaj uporabnikov: <br>
+marija <br>
+maja <br>
+marko <br>
+franc <br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Signup z google računom je onemogočeno zaradi varnosti. <br> 
+Prav tako funkcijonalnosti deli, povabi, download pdf še ne delujejo. <br>
