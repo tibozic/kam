@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62626523259",
+    "project_id": "kam-app-7426f",
+    "storage_bucket": "kam-app-7426f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62626523259:android:290ef130f0c168af741ade",
+        "android_client_info": {
+          "package_name": "com.example.kam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62626523259-b61eoc1t9emkgs18fphb5hdpa2kifpvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kam",
+            "certificate_hash": "c7d7f9cdadf0df875919a844741db0147a29b9a1"
+          }
+        },
+        {
+          "client_id": "62626523259-65f1c2ol89lhp7usddhqtcc5j5v4475e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLQ2eLgqU_1LTIze2QwTiF9ZihjjpF1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62626523259-65f1c2ol89lhp7usddhqtcc5j5v4475e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
