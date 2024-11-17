@@ -2,6 +2,10 @@
 Aplikacija Kam? je platforma, ki združuje funkcionalnosti iskanja dogodkov, družbenega omrežja in sistema za prodajo vstopnic. 
 Gre za kombinacijo funkcij, ki jih ponujata Entrio (platforma za prodajo vstopnic) in Facebook (socialno omrežje za povezovanje ljudi), kar omogoča uporabnikom bolj interaktiven in povezan način iskanja ter udeleževanja dogodkov.
 
+<p align="center">
+  <img src="docs/images/home_user.png">
+</p>
+
 ## Tehnologije
 - Dart
 - Flutter
@@ -60,3 +64,22 @@ franc <br>
 
 Signup z google računom je onemogočeno zaradi varnosti. <br> 
 Prav tako funkcijonalnosti deli, povabi, prenos pdf še ne delujejo. <br>
+
+# Slike
+
+
+
+<p align="center">
+  <img src="docs/images/vpis.png">
+  <img src="docs/images/registracija.png">
+  <img src="docs/images/event_creation_admin2.png">
+  <img src="docs/images/home_user.png">
+  <img src="docs/images/event_user.png">
+  <img src="docs/images/event_user2.png">
+  <img src="docs/images/event_user3.png">
+  <img src="docs/images/friends_user.png">
+  <img src="docs/images/friends_user2.png">
+  <img src="docs/images/groups_user.png">
+  <img src="docs/images/tickets_user.png">
+</p>
+
