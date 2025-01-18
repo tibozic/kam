@@ -28,7 +28,7 @@ It integrates features offered by Entrio (a ticket sales platform) and Facebook 
 4. **Event Organization**  
    - Administrators can easily add events, including details such as the date, description, images, and ticket sales options.  
 
-## Application Advantages:  
+## Advantages:  
 - **Ease of Use:** The combination of functionalities typically found in multiple applications (e.g., event discovery, connecting with participants, and ticket purchasing) allows users to access all the necessary information in one place.  
 - **Social Connectivity:** The social aspect enhances user interaction by enabling them to follow their friends' activities and receive recommendations for events.  
 - **Service Integration:** Integrating various functionalities (social networking, ticket sales, and event discovery) allows users to seamlessly switch between tasks without needing multiple applications.  
