@@ -1,4 +1,4 @@
-# Kam?  (Where to?) - [Slovenian README](README_SLO.md)
+# Kam?  (Where to?) - [Slovenian README](README_SLO.md), [Project Plan](https://github.com/tibozic/kam-plan)
 The **Kam?** application is a platform that combines the functionalities of event discovery, a social network, and a ticket sales system.  
 It integrates features offered by Entrio (a ticket sales platform) and Facebook (a social network for connecting people), providing users with a more interactive and connected way of finding and attending events.  
 
